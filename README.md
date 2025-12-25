@@ -18,7 +18,7 @@ To experiment on a framework that is able to digitize documents through Text Det
 
 <b>After OCR : </b><br/>
 <img src="https://github.com/Phantem717/Digitization-of-Old-Indonesian-Documents-using-YOLO-and-OCR-/blob/main/images/TROCR_AFTER.png" width="50%" height="50%" />
-
+<br/><br/>
 ### Experiment Results
 ### <b>1. YOLO Training Results : </b> <br/><br/>
 <img src="https://github.com/Phantem717/Digitization-of-Old-Indonesian-Documents-using-YOLO-and-OCR-/blob/main/Figure/YOLO_Metrics_IEEE%20(6).png" width="50%" height="50%" />
