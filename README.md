@@ -5,3 +5,7 @@ YOLO and TrOCR experiment utilizing NusaAksara Image Transcription in Jawa Scrip
 Goal:
 To experiment on a framework that is able to digitize documents through Text Detection with YOLO, and line by line Transcription into Unicode format of Jawa Aksara using TrOCR, and export as PDF from basic HTML using WeasyPrint
 
+## Flowchart Of Experiment Methodology
+<img src="https://github.com/Phantem717/Digitization-of-Old-Indonesian-Documents-using-YOLO-and-OCR-/blob/main/Figure/FLOWCHART_METHODOLOGY_PRETHESIS.drawio%20(14).png" width="50%" height="50%" />
+
+### Experiment Results
