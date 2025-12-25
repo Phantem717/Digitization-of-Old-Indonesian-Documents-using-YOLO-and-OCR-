@@ -13,10 +13,10 @@ To experiment on a framework that is able to digitize documents through Text Det
 <img src="https://github.com/Phantem717/Digitization-of-Old-Indonesian-Documents-using-YOLO-and-OCR-/blob/main/images/Example%20Of%20YOLO's%20Document.png" width="50%" height="50%" />
 
 ### <b>2. Example Of TrOCR Output : </b> <br/><br/>
-<b>Before OCR : </b>
+<b>Before OCR : </b><br/>
 <img src="https://github.com/Phantem717/Digitization-of-Old-Indonesian-Documents-using-YOLO-and-OCR-/blob/main/images/TrOCR_BEFORE.png" width="50%" height="50%" />
 
-<b>After OCR : </b>
+<b>After OCR : </b><br/>
 <img src="https://github.com/Phantem717/Digitization-of-Old-Indonesian-Documents-using-YOLO-and-OCR-/blob/main/images/TROCR_AFTER.png" width="50%" height="50%" />
 
 ### Experiment Results
