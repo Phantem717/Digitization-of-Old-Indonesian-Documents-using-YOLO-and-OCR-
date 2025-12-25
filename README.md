@@ -9,8 +9,15 @@ To experiment on a framework that is able to digitize documents through Text Det
 <img src="https://github.com/Phantem717/Digitization-of-Old-Indonesian-Documents-using-YOLO-and-OCR-/blob/main/Figure/FLOWCHART_METHODOLOGY_PRETHESIS.drawio%20(14).png" width="50%" height="50%" />
 
 ### Output Example
+### <b>1. YOLO Sample Output : </b> <br/><br/>
+<img src="https://github.com/Phantem717/Digitization-of-Old-Indonesian-Documents-using-YOLO-and-OCR-/blob/main/images/Example%20Of%20YOLO's%20Document.png" width="50%" height="50%" />
 
+### <b>2. Example Of TrOCR Output : </b> <br/><br/>
+<b>Before OCR : </b>
+<img src="https://github.com/Phantem717/Digitization-of-Old-Indonesian-Documents-using-YOLO-and-OCR-/blob/main/images/TrOCR_BEFORE.png" width="50%" height="50%" />
 
+<b>After OCR : </b>
+<img src="https://github.com/Phantem717/Digitization-of-Old-Indonesian-Documents-using-YOLO-and-OCR-/blob/main/images/TROCR_AFTER.png" width="50%" height="50%" />
 
 ### Experiment Results
 ### <b>1. YOLO Training Results : </b> <br/><br/>
