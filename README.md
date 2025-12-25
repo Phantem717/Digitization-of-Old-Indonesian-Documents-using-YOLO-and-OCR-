@@ -9,3 +9,8 @@ To experiment on a framework that is able to digitize documents through Text Det
 <img src="https://github.com/Phantem717/Digitization-of-Old-Indonesian-Documents-using-YOLO-and-OCR-/blob/main/Figure/FLOWCHART_METHODOLOGY_PRETHESIS.drawio%20(14).png" width="50%" height="50%" />
 
 ### Experiment Results
+### <b>1. Framework Results On NusaAksara Documents : </b> <br/><br/>
+<img src="https://github.com/Phantem717/Digitization-of-Old-Indonesian-Documents-using-YOLO-and-OCR-/blob/main/images/RESULTS_NUSAAKSARA.png" width="50%" height="50%" />
+
+### <b>1. Framework Results On EAP Documents : </b> <br/><br/>
+<img src="https://github.com/Phantem717/Digitization-of-Old-Indonesian-Documents-using-YOLO-and-OCR-/blob/main/images/RESULTS_EAP.png" width="50%" height="50%" />
