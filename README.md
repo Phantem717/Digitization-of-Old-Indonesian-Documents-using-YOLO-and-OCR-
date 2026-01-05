@@ -1,4 +1,4 @@
-# Digitization-of-Old-Indonesian-Documents-using-YOLO-and-OCR-
+# YOLOV8, TROCR, Weasyprint Framework For Digitization of Old Indonesian Manuscripts
 
 YOLO and TrOCR experiment utilizing NusaAksara Image Transcription in Jawa Script dataset for OCR and Manually created and annotated dataset from Roboflow compiled of images from British Public Library: Endangered Archives Program and NusaAksara.
 
